@@ -155,3 +155,11 @@ index 70ea841..c5af7da 100644
 
 Task #16
 git add -A && git commit -m "update analyss"
+
+Task #17
+git commit --amend -m "Update analysis"
+
+Task #18
+git add commands.txt && git commit -m "Update commands log"
+git switch main
+git merge station-upgrade
