@@ -175,4 +175,15 @@ a22b29e (upstream/main, upstream/HEAD, origin/main, origin/HEAD) docs(readme): n
 b645f85 feat: quiz 01 starter files
 
 Task #20
+git add commands.txt && git commit -m "Add command log"
+git push -u origin main
+git push origin station-upgrade
+
+Bonus
+1. gh pr create --repo danilofreire/datasci350-quiz01
+https://github.com/danilofreire/datasci350-quiz01/pull/52
+2. Don't know how to do this fully so this is my guess (didn't do in command line):
+git config?
+git push --force 
+git add commands.txt && git commit -m "Document bonus tasks" && git push
 
